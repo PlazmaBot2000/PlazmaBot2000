@@ -1,5 +1,5 @@
 # Hello!
-### I am student and game developer from Russia. 14 y.o.
+### I am student and game developer from Russia. 13.666666667 y.o.
 #### I code in C++ and C#.
 #### Get in touch:
 - [Telegram](https://PlazmaBot2000.t.me)

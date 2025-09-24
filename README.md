@@ -1,6 +1,6 @@
 # Hello!
 ### I am student and game developer from Russia. 14 y.o.
-#### I code in C++ and C#.
+#### I code in C++, C# and Python.
 #### Later I will post my projects here, but now this account is empty.
 #### Get in touch:
 - [Telegram](https://PlazmaBot2000.t.me)
